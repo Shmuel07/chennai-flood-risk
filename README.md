@@ -33,7 +33,7 @@ Each factor is normalised to a 0–1 scale, weighted, and combined into a single
 
 ## Key Findings
 
-!\[Zone Ranking](assets/chennai\_susceptibility\_ranking.png)
+![Zone Ranking](assets/chennai\_susceptibility\_ranking.png)
 
 The five highest-susceptibility zones are **Sholinganallur, Perungudi, Thiruvottiyur, Adyar, and Tondiarpet** — and the analysis explains *why*:
 
