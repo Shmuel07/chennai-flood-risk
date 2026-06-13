@@ -77,6 +77,17 @@ This matches the lived reality of where Chennai actually floods, which validates
 
 \---
 
+## QGIS Workflow
+
+The map is built on real data processed entirely in QGIS before any Python analysis.
+
+![QGIS Workflow](assets/Working_view_chennai_floods.jpg)
+*QGIS workspace showing the real pipeline — SRTM tiles (n12_e080, n13_e080), 
+clipped DEM, official TNGIS zone boundaries, and elevation_per_zone.csv 
+exported via zonal statistics*
+
+\---
+
 ## Roadmap (v2)
 
 This is v1, built on a sound, honest methodology. Planned upgrades:
