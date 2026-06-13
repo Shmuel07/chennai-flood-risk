@@ -2,7 +2,7 @@
 
 **A zone-level flood risk assessment for Greater Chennai Corporation, built from official open geospatial data using a transparent multi-criteria methodology.**
 
-!\[Chennai Flood Susceptibility Map](assets/chennai_flood_map_FINAL_labeled.png)
+![Chennai Flood Susceptibility Map](assets/chennai_flood_map_FINAL_labeled.png)
 
 \---
 
